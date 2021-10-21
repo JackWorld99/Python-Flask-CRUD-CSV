@@ -15,17 +15,18 @@
 3. Open command prompt type _' python '_
 4. Type _' from app import db'_
 5. Type _' db.create_all() '_
-   <br>
 
-| Web Api                                |
-| -------------------------------------- |
-| GET http://localhost/                  |
-| GET http://localhost/\<int:id>         |
-| POST http://localhost/create/\<int:id> |
-| POST http://localhost/update/\<int:id> |
-| POST http://localhost/delete/\<int:id> |
-| POST http://localhost/upload/          |
-| GET http://localhost/csv_report/       |
+<br>
+
+| Web Api                               |
+| ------------------------------------- |
+| GET http://localhost/                 |
+| GET http://localhost/<int:id>         |
+| POST http://localhost/create/<int:id> |
+| POST http://localhost/update/<int:id> |
+| POST http://localhost/delete/<int:id> |
+| POST http://localhost/upload/         |
+| GET http://localhost/csv_report/      |
 
 <br>
 
@@ -33,10 +34,16 @@
 
 - _Don't send **NaN values** to the database._
 - _Follow the **CSV structure** when manually creating or entering data into a .csv file._
+
+  <br>
+
   Example:
-  \
+
+  <br>
+
   ![](./static/img/downloadCSV.JPG)
   <br>
+
 - _CSV file you are going to upload **no need** inculde table field name._
 - _Upload feature for this application **only accept .CSV files**._
 - _Upload feature **not support multiple files** upload._
