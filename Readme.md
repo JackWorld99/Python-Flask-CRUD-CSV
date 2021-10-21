@@ -28,6 +28,7 @@
 | GET http://localhost/csv_report/       |
 
 <br>
+
 #### Precautions For Using This Application
 
 - _Don't send **NaN values** to the database._
@@ -45,7 +46,7 @@
 
 <hr>
 
-####How to run this application?
+#### How to run this application?
 
 > 1.  _Open command prompt._
 > 2.  _Type '**pip install flask**'._
@@ -79,6 +80,7 @@
 ![](./static/img/downloadcsv.JPG)
 
 <hr>
+
 ### Reference
 
 1. [Flask CRUD Application with SQLAlchemy](https://codeloop.org/flask-crud-application-with-sqlalchemy/)
