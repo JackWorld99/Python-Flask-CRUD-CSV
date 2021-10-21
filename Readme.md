@@ -35,7 +35,7 @@
 - _Follow the **CSV structure** when manually creating or entering data into a .csv file._
   Example:
   \
-  ![](./static/img/downloadcsv.JPG)
+  ![](./static/img/downloadCSV.JPG)
   <br>
 - _CSV file you are going to upload **no need** inculde table field name._
 - _Upload feature for this application **only accept .CSV files**._
@@ -77,7 +77,7 @@
 
 #### The Downloaded CSV
 
-![](./static/img/downloadcsv.JPG)
+![](./static/img/downloadCSV.JPG)
 
 <hr>
 
