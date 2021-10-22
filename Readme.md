@@ -1,4 +1,4 @@
-## Simple Python Flask CRUD Application with import and export CSV file
+## Python Flask Application with CRUD, import and export CSV file
 
 #### Feature
 
