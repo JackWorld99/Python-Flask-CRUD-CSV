@@ -18,7 +18,7 @@
 
 <br>
 
-| Web Api                               |
+| Rest Api                               |
 | ------------------------------------- |
 | GET http://localhost/                 |
 | GET http://localhost/<int:id>         |
