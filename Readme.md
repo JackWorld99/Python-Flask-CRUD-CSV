@@ -1,4 +1,4 @@
-## Simple Python Flask CRUD Application with upload, download CSV file
+## Simple Python Flask CRUD Application with import and export CSV file
 
 #### Feature
 
@@ -38,8 +38,6 @@
   <br>
 
   Example:
-
-  <br>
 
   ![](./static/img/downloadCSV.JPG)
   <br>
