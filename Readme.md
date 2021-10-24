@@ -18,7 +18,7 @@
 
 <br>
 
-| Rest Api                               |
+| Rest Api                              |
 | ------------------------------------- |
 | GET http://localhost/                 |
 | GET http://localhost/<int:id>         |
@@ -49,7 +49,7 @@
 
 > _**Violation any of the above will cause errors.**_
 
-<hr>
+---
 
 #### How to run this application?
 
@@ -58,7 +58,7 @@
 > 3.  _Type '**pip install flask-sqlalchemy**'._
 > 4.  _Type '**flask run**' (Running on http://127.0.0.1:5000/)._
 
-<hr>
+---
 
 #### Initial page
 
@@ -84,7 +84,7 @@
 
 ![](./static/img/downloadCSV.JPG)
 
-<hr>
+---
 
 ### Reference
 
